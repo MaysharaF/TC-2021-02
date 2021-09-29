@@ -13,7 +13,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Mayshara Fernandes
+
 - [Be'lakor - Abeyance](https://youtu.be/rYBgWgjjgxQ)
+- [Gojira - Another World](https://youtu.be/iqrMFNMgVS0)
+- [Z by Z - For Sure](https://youtu.be/YbtV_86b7u0)
+- [Dance of Death](https://youtu.be/3659fTXvFts)
+- [In Flames - Through Oblivion](https://youtu.be/JeX2uS4jWMs)
+- [Lil Nas X, Jack Harlow - INDUSTRY BABY](https://youtu.be/UTHLKHL_whs)
 
 # 2021/01 (encerrado)
 
